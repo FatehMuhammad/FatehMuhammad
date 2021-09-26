@@ -14,8 +14,6 @@ You can click the Preview link to take a look at your changes.
  
 ---
 
-![FatehMuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatehMuhammad&repo=github-readme-stats)](https://github.com/FatehMuhammad/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatehMuhammad&repo=github-readme-stats)](https://github.com/FatehMuhammad/github-readme-stats)
@@ -24,4 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![FatehMuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&theme=github_dark)](https://github.com/FatehMuhammad/github-readme-stats)
+<a href="https://github.com/FatehMuhammad/github-readme-stats">
+  <img align="center" src="https://https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&theme=github_dark" />
+</a>
+
+## &#x1f4c8; My GitHub Stats
+
+[![FatehMuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&theme=github_dark)](https://github.com/FatehMuhammad/github-readme-stats)>
