@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/FatehMuhammad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FatehMuhammad&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/FatehMuhammad/convoychat">
+<a href="https://github.com/FatehMuhammad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FatehMuhammad&repo=convoychat" />
 </a>
 
