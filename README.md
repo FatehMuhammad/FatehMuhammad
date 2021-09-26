@@ -28,4 +28,4 @@ You can click the Preview link to take a look at your changes.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![FatehMuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&theme=black)](https://github.com/FatehMuhammad/github-readme-stats)
+[![FatehMuhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&theme=github_dark)](https://github.com/FatehMuhammad/github-readme-stats)
