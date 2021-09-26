@@ -14,17 +14,7 @@ You can click the Preview link to take a look at your changes.
  
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatehMuhammad&repo=github-readme-stats)](https://github.com/FatehMuhammad/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatehMuhammad&repo=github-readme-stats)](https://github.com/FatehMuhammad/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatehMuhammad&layout=compact)](https://github.com/FatehMuhammad/github-readme-stats)
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/FatehMuhammad/github-readme-stats">
-  <img align="center" src="https://https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&theme=github_dark" />
-</a>
 
 ## &#x1f4c8; My GitHub Stats
 
