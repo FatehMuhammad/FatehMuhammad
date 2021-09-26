@@ -1,6 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Fateh Muhammad!
 ### Where to find Me ):
-<a href="https://twitter.com/FM_Sani" target="_blank" title="Twitter" alt="Twitter">Twitter</a>
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 # Biography
 - 👋 Hi, I’m @FatehMuhammad
 - 👀 I’m interested in learning Data Science, Artificial Intelligence, and Competitive Programming ...
