@@ -58,8 +58,8 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Urdu ★★★★★</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Urdu ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Punjabi ★★★★</a></td></tr>
 </table>
 
