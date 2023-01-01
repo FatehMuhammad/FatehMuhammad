@@ -54,10 +54,10 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 
   <summary><b>⚡Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <summary><b>☄️Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true" />
  
   <br />
   
@@ -67,7 +67,7 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
     <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
 </table>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 <div align="center">
