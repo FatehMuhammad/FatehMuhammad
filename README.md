@@ -31,7 +31,7 @@ I have been working as a freelancer on  and became a level 2 seller on July 2022
 
 ### **Remote Job as a [Software Developer at Thusney Commerce Group, Ltd.](http://www.thusney.com/)**
 
-I am working on one of the Software Development projects by Thusney Commerce Group (TCG) Ltd. During this part-time job, I remotely join the team at the Toronto office of TCG. Ltd. TCG provides B.I. (Balance Investment) analyzing systems using Artificial Intelligence for investors in the financial market investment such as Equities, Forex, Future, etc. Their AI system has been licensed to various financial companies, and investment companies, such as [BI Global Brokers](http://www.biglobalbrokers.com), to provide AI advice & Auto Trading function.
+I am working on one of the Software Development projects by Thusney Commerce Group (TCG) Ltd. During this part-time job, I remotely join the team at the Toronto office of TCG. Ltd. TCG provides B.I. (Balance Investment) analyzing systems using Artificial Intelligence for investors in the financial market investment such as Equities, Forex, Future, etc. Their AI system has been licensed to various financial companies, and investment companies, such as BI Global Brokers to provide AI advice & Auto Trading function.
 
 # **Some Tools and Technologies I am working on:**
 
@@ -57,10 +57,10 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Urdu ★★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Punjabi ★★★★</a></td></tr>
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="50"> Languages</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="30"> English ★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★</a></td></tr>
 </table>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
