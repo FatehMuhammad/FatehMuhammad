@@ -58,9 +58,9 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197375.svg" height="15"> Urdu ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Urdu ★★★★★</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Punjabi ★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="15"> Punjabi ★★★★</a></td></tr>
 </table>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
