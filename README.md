@@ -52,7 +52,6 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 
 # **Some Github Stats:**
 
-<img align="right" height="250" width="300" alt="" src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/coder.gif" />
   <summary><b>⚡Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
