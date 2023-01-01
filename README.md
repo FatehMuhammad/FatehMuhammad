@@ -11,7 +11,7 @@
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FatehMuhammad.FatehMuhammad&style=flat-square&color=0088cc)
 
-# **Educational Career:**
+# <span style="color: #ff0000">**Educational Career:**</span>
 
 I am a Final Year Student of Bachelor's in Artificial Intelligence from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/). During previous four years I have worked on problem solving skills, and achieved Gold ranking (5 stars) at HackerRank. I have completed "[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G)" offered by Stanford Online, "Python Crash Course by Google", and "Python for Everybody Specialization" offered by University of Michigan on Coursera. I passed official certification exam by Amazon and became "[AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile)".
 
@@ -62,7 +62,7 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
   <br />
   
   <table align="right">
-    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="40"> Languages I Speak</a></td></tr>
+    <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="45"> Languages I Speak</a></td></tr>
     <tr><td><a href="README.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_the_United_States.svg" height="25"> English ★★★★☆</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
