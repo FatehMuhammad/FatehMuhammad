@@ -57,7 +57,7 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
   <summary><b>☄️Github Streaks</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=FatehMuhammad&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true" />
  
   <br />
   
