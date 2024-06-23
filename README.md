@@ -17,7 +17,7 @@ I graduated with Bachelor's in Artificial Intelligence from [FAST NUCES Islamaba
 
 ### **Core Courses covered during my studies:**
 
-I am done studying most of Core Courses like "Design and Analysis of Algorithms", "Artificial Intelligence", "Programming for Artificial Intelligence", "Machine Learning", "Knowledge Rep. and Reasoning", "Fundamentals of Natural Language Processing", "Artificial Neural Networks", "Computer Vision", "Cloud Security", "Information Security", "DevOps", and "Entrepreneurship".
+I studied these Core Courses during my BS-AI, "Design and Analysis of Algorithms", "Artificial Intelligence", "Programming for Artificial Intelligence", "Machine Learning", "Knowledge Rep. and Reasoning", "Fundamentals of Natural Language Processing", "Artificial Neural Networks", "Computer Vision", "Cloud Security", "Information Security", "DevOps", and "Entrepreneurship".
 
 # **Professional Career:**
 
