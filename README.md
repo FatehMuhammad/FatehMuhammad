@@ -13,7 +13,7 @@
 
 # **Educational Career:**
 
-I am a Final Year Student of Bachelor's in Artificial Intelligence from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/). During previous four years I have worked on problem solving skills, and achieved Gold ranking (5 stars) at HackerRank. I have completed "[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G)" offered by Stanford Online, "Python Crash Course by Google", and "Python for Everybody Specialization" offered by University of Michigan on Coursera. I passed official certification exam by Amazon and became "[AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile)".
+I graduated with Bachelor's in Artificial Intelligence from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/). During previous four years I have worked on problem solving skills, and achieved Gold ranking (5 stars) at HackerRank. I have completed "[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G)" offered by Stanford Online, "Python Crash Course by Google", and "Python for Everybody Specialization" offered by University of Michigan on Coursera. I passed official certification exam by Amazon and became "[AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile)".
 
 ### **Core Courses covered during my studies:**
 
