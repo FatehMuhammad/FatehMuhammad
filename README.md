@@ -1,4 +1,4 @@
-# Hey 👋, It's [Fateh Muhammad!](https://github.com/FatehMuhammad/), Nice to see you.
+# Hey 👋, It's [Fateh Muhammad!](https://github.com/FatehMuhammad/)
 
 #### Connect with me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-important)](https://www.linkedin.com/in/fateh-muhammad/)
