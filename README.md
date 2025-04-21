@@ -1,55 +1,66 @@
 # Hey 👋, It's [Fateh Muhammad!](https://github.com/FatehMuhammad/)
 
-#### Connect with me at
+## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=FatehMuhammad&label=Visitors&labelColor=%23697689&countColor=%231ccce4)
+
+---
+
+### 📬 Connect with me
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-important)](https://www.linkedin.com/in/fateh-muhammad/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/FM__Sani)
 [![Github Badge](https://img.shields.io/badge/-Github-brightgreen)](https://github.com/FatehMuhammad/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-green)](https://www.kaggle.com/fatehmuhammad/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-informational)](https://fatehmuhammad.medium.com/)
 
-## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=FatehMuhammad&label=Visitors&labelColor=%23697689&countColor=%231ccce4)
+---
 
-# **Educational Career:**
+### 💡 About Me
 
-I graduated with Bachelor's in Artificial Intelligence from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/). During previous four years I have worked on problem solving skills, and achieved Gold ranking (5 stars) at HackerRank. I have completed "[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G)" offered by Stanford Online, "Python Crash Course by Google", and "Python for Everybody Specialization" offered by University of Michigan on Coursera. I passed official certification exam by Amazon and became "[AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile)".
+- 🧠 AI/ML Engineer, Backend Developer & Problem Solver  
+- 🚀 Currently building SaaS tools and AI-powered solutions  
+- 📚 Learning Full Stack Development and DevOps at scale  
+- 🧩 Fun fact: I’m only social on social media  
+- 📫 Reach me: fatehmuhammad2002@gmail.com
 
-### **Core Courses covered during my studies:**
+---
 
-I studied these Core Courses during my BS-AI, "Design and Analysis of Algorithms", "Artificial Intelligence", "Programming for Artificial Intelligence", "Machine Learning", "Knowledge Rep. and Reasoning", "Fundamentals of Natural Language Processing", "Artificial Neural Networks", "Computer Vision", "Cloud Security", "Information Security", "DevOps", and "Entrepreneurship".
+# 🎓 **Education**
 
-# **Professional Career:**
+I graduated with a **Bachelor's in Artificial Intelligence** from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/).  
+Highlights:
+- ⭐ Gold Badge (5 stars) on HackerRank
+- 🧾 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile)
+- 📜 Completed [Stanford ML Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G), Google's Python Crash Course, and more
 
-### **Internship at [AIM (Artificial Intelligence and Machine Learning) Lab](http://isb.nu.edu.pk/aim/)**
+#### 📘 Core Courses:
+"Machine Learning", "Artificial Neural Networks", "Computer Vision", "NLP", "DevOps", "Cloud Security", and more.
 
-I completed Summer Internship at  During my 1 month internship, I thoroughly analyzed the previous work done in the domain of Empathetic Response Generation (one of the most critical topics in NLP research), and presented in front of a team. I read multiple research papers and analyzed them for any further improvement along with analyzing their previous implementations.
+---
 
-### **Freelancing at [Fiverr (a freelance platfrom)](https://www.fiverr.com/users/fatehmuhammad36/)**
+# 💼 **Professional Experience**
 
-I have been working as a freelancer on  and became a level 2 seller on July 2022. I have completed around 80 small projects (python development projects) as a freelancer with rating of 4.9 stars. In most of projects I worked on Machine Learning, Deep Learning, Natural Language Processing and problem solving using Python.
+### 🔬 Internship – [AIM Lab, FAST NUCES](http://isb.nu.edu.pk/aim/)
+Researched empathetic response generation models in NLP, presented findings, and reviewed academic implementations.
 
-### **Remote Job as a [Software Developer at Thusney Commerce Group, Ltd.](http://www.thusney.com/)**
+### 🌍 Freelancing – [Fiverr](https://www.fiverr.com/users/fatehmuhammad36/)
+Level 2 seller with 80+ successful projects in Python, ML, NLP, and automation (4.9★ rating).
 
-I am working on one of the Software Development projects by Thusney Commerce Group (TCG) Ltd. During this part-time job, I remotely join the team at the Toronto office of TCG. Ltd. TCG provides B.I. (Balance Investment) analyzing systems using Artificial Intelligence for investors in the financial market investment such as Equities, Forex, Future, etc. Their AI system has been licensed to various financial companies, and investment companies, such as BI Global Brokers to provide AI advice & Auto Trading function.
+### 🌐 Remote Developer – [Thusney Commerce Group, Ltd.](http://www.thusney.com/)
+Built AI-powered financial analytics tools used by global investment clients for equity, forex, and futures markets.
 
-# **Some Tools and Technologies I am working on:**
+---
 
-- 🛠 &nbsp; I’m currently working with scikit-learn, TensorFlow, PyTorch, Flask, FastAPI, Django, React, <br /> SQL, Oracle, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development while working on my Final year Project.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/FatehMuhammad/) and [Kaggle](https://www.kaggle.com/fatehmuhammad/).
-- 💬 &nbsp; You can text me on Linkedin, or by Email to ask about anything. I'll be happy to help.
-- 👾 &nbsp; Fun fact: I am only Social on Social Media.
-- 📫 &nbsp; How to reach me: fatehmuhammad2002@gmail.com.
-
-# **Programming Languages & Tools I mostly Use:**
+# 🧰 **Tools & Technologies I Work With**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,django,flask,fastapi,postgres,sqlite,mongodb,redis,bash,HTML,CSS,js,react,azure,linux,git,github,githubactions,kubernetes,docker,c,vscode,heroku,anaconda" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,django,flask,fastapi,postgres,sqlite,mongodb,redis,bash,html,css,js,react,azure,linux,git,github,githubactions,kubernetes,docker,c,vscode,heroku,anaconda" />
   </a>
 </p>
 
+---
 
-# **Some Github Stats:**
+# 📊 **GitHub Stats & Activity**
 
 <table>
   <tr>
@@ -67,16 +78,18 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
     <td>
       <table>
         <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="45"> Languages I Speak</td></tr>
-        <tr><td><a href="README.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_the_United_States.svg" height="25"> English ★★★★☆</a></td></tr>
-        <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
-        <tr><td><a href="README_pt.md"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
+        <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_the_United_States.svg" height="25"> English ★★★★☆</a></td></tr>
+        <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
+        <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
       </table>
     </td>
   </tr>
 </table>
 
+---
+
 <div align="center">
 
-# Trying to be the best version of myself
+### 🚀 Trying to be the best version of myself, one commit at a time.
 
 </div>
