@@ -41,7 +41,7 @@ Highlights:
 # 💼 **Professional Experience**
 
 ### Sr. AI/ML Engineer – [Hyetel X](https://hyetelx.com)
-Founded devSpection to deliver scalable AI tools and SaaS solutions. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
+I lead the development of CRM and ERP systems for corporate clients. I am gathering and analyzing requirements, designing system architecture and databases, and managing a small development team. I regularly meet with clients to discuss progress, clarify needs, and keep projects on track. I also handle incoming leads from platforms like Upwork, respond to queries, conduct technical discovery calls, and help convert them into active clients through staff augmentation or project-based work.
 
 ### Software Engineer (AI/ML) – [devSpection](https://www.devSpection.com)
 Founded devSpection to deliver scalable AI tools and SaaS solutions. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
