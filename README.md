@@ -9,6 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-informational)](fatehmuhammad2002@gmail.com/)
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FatehMuhammad.FatehMuhammad&style=flat-square&color=0088cc)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FatehMuhammad&left_color=green&right_color=red)
 
 # **Educational Career:**
 
@@ -41,12 +42,14 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 - 👾 &nbsp; Fun fact: I am only Social on Social Media.
 - 📫 &nbsp; How to reach me: fatehmuhammad2002@gmail.com.
 
-# **Programming Languages I mostly work in:**
+# **Programming Languages & Tools I mostly Use:**
 
-<code><img height="28" width="98" src="https://camo.githubusercontent.com/a71f1a20d58a3506dd5f32dcb31461bd5102a0bd33dbf49db9195c589eaca8d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="python"></code>
-<code><img height="28" width="98" src="https://camo.githubusercontent.com/0d3ae99a9dcced770f5a2e6d2395999c121d9975f3f1816ee3b3902a3c8e6a92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266f676f436f6c6f723d7768697465" alt="C++"></code>
-<code><img height="28" width="98" src="https://camo.githubusercontent.com/c32b4a3bd070f3239dd1d6ba6a791e231a1ce9f92a605b8942a93e42203840ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" alt="C++"></code>
-<code><img height="28" width="98" src="https://camo.githubusercontent.com/76746e626cf811c58ef46bcf47bd92caadff214ddb4d5e416f45bc91cf1ac0f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d4d7953514c3f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c26636f6c6f723d463239313131" alt="SQL"></code>
+[![Programming Languages](https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,C++,SQL,AWS,tensorflow,&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,C++,SQL,AWS,tensorflow,git,kubernetes,docker,c" />
+  </a>
+</p>
 
 
 # **Some Github Stats:**
