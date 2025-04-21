@@ -42,10 +42,9 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 
 # **Programming Languages & Tools I mostly Use:**
 
-[![Programming Languages](https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,C++,SQL,AWS,tensorflow,&theme=light)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,C++,SQL,AWS,tensorflow,git,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,flask,azure,linux,git,kubernetes,docker,c" />
   </a>
 </p>
 
