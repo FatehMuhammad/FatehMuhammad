@@ -39,14 +39,14 @@ Highlights:
 
 # 💼 **Professional Experience**
 
-### 🔬 Internship – [AIM Lab, FAST NUCES](http://isb.nu.edu.pk/aim/)
-Researched empathetic response generation models in NLP, presented findings, and reviewed academic implementations.
+### Software Engineer (AI/ML) – [devSpection](https://www.devSpection.com)
+Founded devSpection to deliver scalable AI tools and SaaS solutions. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
 
-### 🌍 Freelancing – [Fiverr](https://www.fiverr.com/users/fatehmuhammad36/)
-Level 2 seller with 80+ successful projects in Python, ML, NLP, and automation (4.9★ rating).
+### Software Engineer – [Fiverr]
+Completed 80+ projects (rated 4.9★) across AI/ML, NLP, automation, and custom Python tools. I am Specialized in building fast prototypes and solving complex backend problems.
 
-### 🌐 Remote Developer – [Thusney Commerce Group, Ltd.](http://www.thusney.com/)
-Built AI-powered financial analytics tools used by global investment clients for equity, forex, and futures markets.
+### Software Engineer – [Thusney Commerce Group, Ltd.]
+Developed auto-trading tools and internal software systems for a Canadian fintech company. Contributed to algorithmic decision-making modules and backend APIs.
 
 ---
 
@@ -90,6 +90,6 @@ Built AI-powered financial analytics tools used by global investment clients for
 
 <div align="center">
 
-### 🚀 Trying to be the best version of myself, one commit at a time.
+### Trying to be the best version of myself, one commit at a time.
 
 </div>
