@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-brightgreen)](https://github.com/FatehMuhammad/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-green)](https://www.kaggle.com/fatehmuhammad/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-informational)](https://fatehmuhammad.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red)](fatehmuhammad2002@gmail.com)
+[![Gmail Badge]((https://skillicons.dev/icons?i=gmail&theme=dark))](fatehmuhammad2002@gmail.com)
 
 
 ## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=FatehMuhammad.FatehMuhammad&style=flat-square&color=0088cc)
