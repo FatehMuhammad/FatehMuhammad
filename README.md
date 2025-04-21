@@ -6,9 +6,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-brightgreen)](https://github.com/FatehMuhammad/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-green)](https://www.kaggle.com/fatehmuhammad/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-informational)](https://fatehmuhammad.medium.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-informational)](fatehmuhammad2002@gmail.com/)
+[![Gmail](fatehmuhammad2002@gmail.com/)
 
-## Glad to see you here! &nbsp; ![](https://vbr.nathanchung.dev/badge?page_id=FatehMuhammad)
+## Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=FatehMuhammad&label=Visitors&labelColor=%23697689&countColor=%231ccce4)
 
 # **Educational Career:**
 
