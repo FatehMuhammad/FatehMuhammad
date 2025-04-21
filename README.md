@@ -44,7 +44,7 @@ I am working on one of the Software Development projects by Thusney Commerce Gro
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,django,flask,azure,linux,git,kubernetes,docker,c" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,django,flask,fastapi,postgres,sqlite,MongoDB,redis,bash,HTML,CSS,js,react,azure,linux,git,github,githubactions,kubernetes,docker,c,vscode,heroku,anaconda" />
   </a>
 </p>
 
