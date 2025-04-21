@@ -16,28 +16,32 @@
 
 ### 💡 About Me
 
-- 🧠 AI/ML Engineer, Backend Developer & Problem Solver  
-- 🚀 Currently building SaaS tools and AI-powered solutions  
-- 📚 Learning Full Stack Development and DevOps at scale  
-- 🧩 Fun fact: I’m only social on social media  
-- 📫 Reach me: fatehmuhammad2002@gmail.com
+- AI/ML Engineer, Backend Developer & Problem Solver  
+- Currently building SaaS tools and AI-powered solutions  
+- Learning Full Stack Development and DevOps at scale  
+- Fun fact: I’m only social on social media  
+- Reach me: fatehmuhammad2002@gmail.com
 
 ---
 
 # 🎓 **Education**
 
-I graduated with a **Bachelor's in Artificial Intelligence** from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/).  
+I graduated with a **Bachelor's in Artificial Intelligence** from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/).
 Highlights:
-- ⭐ Gold Badge (5 stars) on HackerRank
-- 🧾 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile)
-- 📜 Completed [Stanford ML Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G), Google's Python Crash Course, and more
+- ⭐ Gold Badge in Python (5 stars) on HackerRank
+- 📜 [Entrepreneurship & Management] CES courses at Lahore University of Management Sciences
+- 🧾 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/83444650-ee44-4b6e-bc9c-e9cb098ac75d?source=linked_in_profile) AWS Certification
+- 📜 [Stanford ML Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YK4VGPX4CQ8G) Google's Python Course, and more
 
 #### 📘 Core Courses:
-"Machine Learning", "Artificial Neural Networks", "Computer Vision", "NLP", "DevOps", "Cloud Security", and more.
+"Design and Analysis of Algorithms", "Artificial Intelligence", "Programming for Artificial Intelligence", "Machine Learning", "Knowledge Rep. and Reasoning", "Natural Language Processing", "Artificial Neural Networks", "Computer Vision", "Cloud Security", "Information Security", "DevOps", "Entrepreneurship" and more.
 
 ---
 
 # 💼 **Professional Experience**
+
+### Sr. AI/ML Engineer – [Hyetel X](https://hyetelx.com)
+Founded devSpection to deliver scalable AI tools and SaaS solutions. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
 
 ### Software Engineer (AI/ML) – [devSpection](https://www.devSpection.com)
 Founded devSpection to deliver scalable AI tools and SaaS solutions. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
@@ -47,6 +51,9 @@ Completed 80+ projects (rated 4.9★) across AI/ML, NLP, automation, and custom 
 
 ### Software Engineer – [Thusney Commerce Group, Ltd.]
 Developed auto-trading tools and internal software systems for a Canadian fintech company. Contributed to algorithmic decision-making modules and backend APIs.
+
+### Machine Learning & NLP Intern – [AIM Lab, FAST NUCES]
+Conducted research on empathetic response generation, assisted in MS-level thesis work, and presented insights on prior academic implementations.
 
 ---
 
