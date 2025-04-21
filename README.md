@@ -97,6 +97,6 @@ Conducted research on empathetic response generation, assisted in MS-level thesi
 
 <div align="center">
 
-### Trying to be the best version of myself, one commit at a time.
+### Reach out to collaborate on research & development projects
 
 </div>
