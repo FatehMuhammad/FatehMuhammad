@@ -8,9 +8,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-informational)](https://fatehmuhammad.medium.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-informational)](fatehmuhammad2002@gmail.com/)
 
-## Glad to see you here! &nbsp; ![](https://vbr.nathanchung.dev/badge?page_id=FatehMuhammad&style=flat-square&color=0088cc)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=FatehMuhammad&left_color=green&right_color=red)
-https://vbr.nathanchung.dev/badge?page_id=YOURPAGEID
+## Glad to see you here! &nbsp; ![](https://vbr.nathanchung.dev/badge?page_id=FatehMuhammad)
 
 # **Educational Career:**
 
