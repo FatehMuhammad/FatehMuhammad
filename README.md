@@ -86,31 +86,12 @@ Conducted research on empathetic response generation, assisted in MS-level thesi
     </td>
     <td>
       <table>
-        <tr>
-          <td>
-            <img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="45" alt="Languages Icon">
-            Languages I Speak
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_the_United_States.svg" height="25" alt="English flag">
-            English ★★★★☆
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="25" alt="Urdu flag">
-            Urdu ★★★★★
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="25" alt="Punjabi flag">
-            Punjabi ★★★★☆
-          </td>
-        </tr>
+        <tr><td><strong>🌐 Languages I Speak</strong></td></tr>
+        <tr><td>🇬🇧 English ★★★★☆</td></tr>
+        <tr><td>🇵🇰 Urdu ★★★★★</td></tr>
+        <tr><td>🇵🇰 Punjabi ★★★★☆</td></tr>
       </table>
+
     </td>
   </tr>
 </table>
