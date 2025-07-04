@@ -69,32 +69,51 @@ Conducted research on empathetic response generation, assisted in MS-level thesi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FatehMuhammad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- GitHub Stats & Activity -->
-
+GitHub Stats & Activity
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+      <img
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+        alt="GitHub stats"
+      />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true" />
+      <img
+        height="180em"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true"
+        alt="GitHub streak"
+      />
     </td>
   </tr>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+      <img
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        alt="Top languages"
+      />
     </td>
     <td>
       <table>
-        <tr><td><strong>🌐 Languages I Speak</strong></td></tr>
-        <tr><td>🇬🇧 English ★★★★☆</td></tr>
-        <tr><td>🇵🇰 Urdu ★★★★★</td></tr>
-        <tr><td>🇵🇰 Punjabi ★★★★☆</td></tr>
+        <tr>
+          <td><strong>🌐 Languages&nbsp;I&nbsp;Speak</strong></td>
+        </tr>
+        <tr>
+          <td>🇬🇧 English ★★★★☆</td>
+        </tr>
+        <tr>
+          <td>🇵🇰 Urdu ★★★★★</td>
+        </tr>
+        <tr>
+          <td>🇵🇰 Punjabi ★★★★☆</td>
+        </tr>
       </table>
-
     </td>
   </tr>
 </table>
+
 
 ---
 
