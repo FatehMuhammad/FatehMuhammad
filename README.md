@@ -71,29 +71,29 @@ Conducted research on empathetic response generation, assisted in MS-level thesi
 
 <!-- GitHub Stats & Activity -->
 
-<!-- <table> >
-<!--   <tr> -->
-<!--     <td>
+<table>
+  <tr>
+    <td> -->
       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-<!--     </td>
+</td>
     <td>
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true" />
     </td>
   </tr>
   <tr> -->
-<!--     <td> -->
-<!--       <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+    <td>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
     </td>
     <td>
       <table>
         <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="45"> Languages I Speak</td></tr>
         <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_the_United_States.svg" height="25"> English ★★★★☆</a></td></tr> -->
-<!--         <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
+         <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Urdu    ★★★★★</a></td></tr>
         <tr><td><a href="#"><img src="https://github.com/FatehMuhammad/FatehMuhammad/blob/main/Flag_of_Pakistan.svg.webp" height="30"> Punjabi ★★★★☆</a></td></tr>
       </table>
     </td> -->
-<!--   </tr> -->
-<!-- </table> -->
+  </tr>
+</table>
 
 ---
 
