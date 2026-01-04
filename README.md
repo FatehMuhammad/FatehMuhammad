@@ -75,7 +75,7 @@ GitHub Stats & Activity
     <td>
       <img
         height="180em"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+        src="https://my-github-stats-three-zeta.vercel.app/api?username=FatehMuhammad&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
         alt="GitHub stats"
       />
     </td>
@@ -91,7 +91,7 @@ GitHub Stats & Activity
     <td>
       <img
         height="180em"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+        src="https://my-github-stats-three-zeta.vercel.app/api/top-langs/?username=FatehMuhammad&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"
         alt="Top languages"
       />
     </td>
