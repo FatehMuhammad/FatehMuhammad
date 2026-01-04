@@ -67,7 +67,7 @@ Conducted research on empathetic response generation, assisted in MS-level thesi
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FatehMuhammad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FatehMuhammad&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 GitHub Stats & Activity
 <table>
@@ -82,7 +82,7 @@ GitHub Stats & Activity
     <td>
       <img
         height="180em"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=FatehMuhammad&hide_border=true"
+        src="https://streak-stats.demolab.com?user=FatehMuhammad&hide_border=true&theme=onedark"
         alt="GitHub streak"
       />
     </td>
