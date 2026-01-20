@@ -19,7 +19,6 @@
 - AI/ML Engineer, Backend Developer & Problem Solver  
 - Currently building SaaS tools and AI-powered solutions  
 - Learning Full Stack Development and DevOps at scale   
-- Fun fact: I’m only social on social media  
 - Reach me: fatehmuhammad2002@gmail.com
 
 ---
