@@ -66,8 +66,6 @@ Conducted research on empathetic response generation, assisted in MS-level thesi
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FatehMuhammad&theme=onedark&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 GitHub Stats & Activity
 <table>
   <tr>
