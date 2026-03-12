@@ -42,8 +42,7 @@ Highlights:
 ### Sr. AI/ML Engineer – [Hyetel X](https://hyetelx.com)
 I lead the development of CRM and ERP systems for corporate clients. I am gathering and analyzing requirements, designing system architecture and databases, and managing a small development team. I regularly meet with clients to discuss progress, clarify needs, and keep projects on track. I also handle incoming leads from platforms like Upwork, respond to queries, conduct technical discovery calls, and help convert them into active clients through staff augmentation or project-based work.
 
-### Software Engineer (AI/ML) – [devSpection](https://www.devSpection.com)
-Founded devSpection to deliver scalable AI tools and SaaS solutions. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
+### Software Engineer (AI/ML) – [devSpection](https://www.devSpection.com) We delivered scalable AI tools and SaaS solutions while working at devSpection. Worked with clients across the globe on ML systems, computer vision apps, and full-stack Python development.
 
 ### Software Engineer – [Fiverr]
 Completed 80+ projects (rated 4.9★) across AI/ML, NLP, automation, and custom Python tools. I am Specialized in building fast prototypes and solving complex backend problems.
