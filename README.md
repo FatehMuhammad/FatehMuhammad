@@ -25,7 +25,8 @@
 
 # 🎓 **Education**
 
-I graduated with a **Bachelor's in Artificial Intelligence** from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/).
+I graduated with a **Bachelor's in Artificial Intelligence** from [FAST NUCES Islamabad, Pakistan](https://www.nu.edu.pk/)
+
 Highlights:
 - ⭐ Gold Badge in Python (5 stars) on HackerRank
 - 📜 [Entrepreneurship & Management] CES courses at Lahore University of Management Sciences
